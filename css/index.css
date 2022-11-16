@@ -256,7 +256,7 @@ footer {
     margin-bottom: 12px;
     max-height: 20px;
 }
-.contact-button:hover {
+.contact-button:hover, .clothes-co a:hover {
     outline: 1px solid #0A3641;
     background-color: #fff;
     color: #000;
