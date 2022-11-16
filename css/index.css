@@ -60,7 +60,7 @@ a.skip-main:focus, a.skip-main:active {
     margin: 0 40px 0 40px;
 }
 .profile {
- background-image: url('shutterstock_2156278107 copy.jpg'); 
+ background-image: url('../images/shutterstock_2156278107 copy.jpg'); 
 height: 400px;
 background-size: cover;
 }
@@ -256,8 +256,14 @@ footer {
     margin-bottom: 12px;
     max-height: 20px;
 }
+.contact-button:hover {
+    outline: 1px solid #0A3641;
+    background-color: #fff;
+    color: #000;
+}
+
 .clothes-profile {
-    background-image: url('IMG_2205.jpg');
+    background-image: url('../images/IMG_2205.jpg');
     height: 600px; ;
     background-size: cover;
     color: #fff;
@@ -364,15 +370,6 @@ footer {
     font-size: 24px;
 }
 
-.rj1 {
-    background-image: url('IMG_2205.jpg');
-    height: 600px; ;
-    background-size: cover;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 .pf-rj2 {
     display: flex;
