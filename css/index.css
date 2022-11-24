@@ -39,7 +39,7 @@ a.skip-main:focus, a.skip-main:active {
 .container {
     max-width: 1400px;
     margin: 0 auto; 
-    width: 100%;
+    width: 100%;    
 }
 .header {
     height: 150px;
@@ -392,6 +392,17 @@ footer {
     justify-content: center;
     align-items: center;
     top: auto;
+}
+.mycart {
+    max-width: 90%;
+}
+.pf-mycV img {
+    max-width: 85%;
+    padding: 10px !important;
+}
+
+.pf-mycH h2 {
+    font-size: 24px;
 }
 .clothes-wrapper {
     grid-template-columns: 1fr;
