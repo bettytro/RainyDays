@@ -39,6 +39,7 @@ a.skip-main:focus, a.skip-main:active {
 .container {
     max-width: 1400px;
     margin: 0 auto; 
+    width: 100%;
 }
 .header {
     height: 150px;
