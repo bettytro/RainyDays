@@ -2,7 +2,6 @@ body {
     background-color: #eee;
     margin: 0 auto;
     width: 100%;
-    overflow: auto;
 }
 .visually-hidden {
     position:absolute;
@@ -40,7 +39,7 @@ a.skip-main:focus, a.skip-main:active {
     max-width: 1400px;
     margin: 0 auto; 
     width: 100%;   
-    overflow: auto; 
+    overflow: hidden; 
 }
 .header {
     height: 150px;
