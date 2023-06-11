@@ -34,7 +34,7 @@ To clone this repo you run the command that is listed under here. From there you
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:bettytro/SemesterProject.git
+git clone git@github.com:bettytro/RainyDays.git
 ```
 
 
