@@ -1,9 +1,4 @@
 # RainyDays
- 
-My first real attempt on coding. Project for school.
-
-Focus on accesability, wcag and getting semantic html as best as I can.
-
 ![image  ](images/Rainydays.webp)
 
 Rainydays was the first website I made with coding. The assignment was to code the website we made in XD Design using HTML and CSS. Six months after we got to make some changes to the design and add in vanilla JavaScript.   
